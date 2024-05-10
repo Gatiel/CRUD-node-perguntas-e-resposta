@@ -1,5 +1,5 @@
 # Node-perguntas-e-resposta
-Plataforma de perguntas e respostas simples feito com node
+Plataforma de perguntas e respostas simples feito com node para fins de estudos sobre funcionamento de CRUD usando Sequelize
 
 ![image](https://github.com/Gatiel/node-perguntas-e-resposta/assets/69369161/29cdc412-729f-4e0f-969e-de2ebba7d2e8)
 
@@ -8,7 +8,3 @@ Plataforma de perguntas e respostas simples feito com node
 
 
 ![image](https://github.com/Gatiel/node-perguntas-e-resposta/assets/69369161/fdd0dc64-98f8-4a7c-b344-a2ef85753c18)
-
-
-
-É necessário ter um banco de dados nomeado com "database_name" antes de inicializar com nodemon
